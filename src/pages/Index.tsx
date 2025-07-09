@@ -59,7 +59,7 @@ const Index = () => {
               
               <div className="flex flex-col sm:flex-row gap-4">
                 <a 
-                  href="https://sugardelete.myshopify.com/checkouts/cn/Z2NwLWV1cm9wZS13ZXN0MTowMUpaUUdXRFNEWDA5V0Q4NlY5RldSNFNGVg?preview_theme_id=180813726019" 
+                  href="https://sugardelete.myshopify.com/checkouts/cn/Z2NwLWV1cm9wZS13ZXN0MTowMUpaUjczUzRWTjhNMjFWWlhYR1lKWFE1Vw"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center pulse-glow text-lg px-8 py-6 bg-primary hover:bg-primary/90 text-white rounded-md"
@@ -285,7 +285,7 @@ const Index = () => {
             </p>
             <div className="flex justify-center">
               <a 
-                href="https://sugardelete.myshopify.com/checkouts/cn/Z2NwLWV1cm9wZS13ZXN0MTowMUpaUUdXRFNEWDA5V0Q4NlY5RldSNFNGVg?preview_theme_id=180813726019"
+                href="https://sugardelete.myshopify.com/checkouts/cn/Z2NwLWV1cm9wZS13ZXN0MTowMUpaUjczUzRWTjhNMjFWWlhYR1lKWFE1Vw"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center pulse-glow text-base md:text-lg px-8 md:px-12 py-4 md:py-6 bg-primary hover:bg-primary/90 text-white rounded-md w-full sm:w-auto"
